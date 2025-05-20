@@ -12,6 +12,7 @@
         <meta name="og:title" content="KOITOTO x Togel Online | Daftar Agen Toto 4D Terbaik di Indonesia" />
         <meta name="og:type" content="product" />
         <meta name="og:description" content="KOITOTO adalah situs togel online terpercaya yang berkolaborasi dengan berbagai pasaran resmi untuk menghadirkan pengalaman bermain toto 4D terbaik bagi para pemain nya di Indonesia." />
+        <meta name="google-site-verification" content="Jk6dQg1tbfbD7WyyQMoIkikR5W_wCI2UMAWA4gHpn-o" />
         <meta name="og:image" content="https://goodimg.io/images/2025/04/20/photo_2025-04-20_15-18-11.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/02/favicon-koi-2025.png" />
