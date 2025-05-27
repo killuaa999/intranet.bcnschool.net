@@ -2,24 +2,24 @@
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
         <meta charset="utf-8" />
-        <title>KOITOTO x Togel Online | Daftar Agen Toto 4D Terbaik di Indonesia</title>
-        <meta name="description" content="KOITOTO adalah situs togel online terpercaya yang berkolaborasi dengan berbagai pasaran resmi untuk menghadirkan pengalaman bermain toto 4D terbaik bagi para pemain nya di Indonesia." />
+        <title>BCNSCHOOOL | Daftar Agen Toto 4D From KOITOTO</title>
+        <meta name="description" content="BCNSCHOOOL adalah platform digital yang menyediakan akses resmi untuk pendaftaran Agen Toto 4D dari KOITOTO, salah satu situs togel online terpercaya dan terbesar di Indonesia." />
         <meta name="keywords" content="koitoto, koitoto login, koitoto daftar, toto macau, koitoto link alternatif, bandar toto macau" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
         <meta name="og:url" content="https://intranet.bcnschool.net/" />
-        <meta name="og:title" content="KOITOTO x Togel Online | Daftar Agen Toto 4D Terbaik di Indonesia" />
+        <meta name="og:title" content="BCNSCHOOOL | Daftar Agen Toto 4D From KOITOTO" />
         <meta name="og:type" content="product" />
-        <meta name="og:description" content="KOITOTO adalah situs togel online terpercaya yang berkolaborasi dengan berbagai pasaran resmi untuk menghadirkan pengalaman bermain toto 4D terbaik bagi para pemain nya di Indonesia." />
+        <meta name="og:description" content="BCNSCHOOOL adalah platform digital yang menyediakan akses resmi untuk pendaftaran Agen Toto 4D dari KOITOTO, salah satu situs togel online terpercaya dan terbesar di Indonesia." />
         <meta name="google-site-verification" content="Jk6dQg1tbfbD7WyyQMoIkikR5W_wCI2UMAWA4gHpn-o" />
-        <meta name="og:image" content="https://goodimg.io/images/2025/04/20/photo_2025-04-20_15-18-11.jpg" />
+        <meta name="og:image" content="https://goodimg.io/images/2025/05/12/link-agen-toto-01.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/02/favicon-koi-2025.png" />
         <link rel="canonical" href="https://intranet.bcnschool.net/" />
         <link rel="amphtml" href="https://koi.avatar-amp.info/maha.kuasa.303/" />
         <!-- start preload -->
-        <link rel="preload" href="https://goodimg.io/images/2025/04/20/photo_2025-04-20_15-18-11.jpg" as="image" />
+        <link rel="preload" href="https://goodimg.io/images/2025/05/12/link-agen-toto-01.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -125,7 +125,7 @@
             var timings = { start: Date.now() };
             var dataLayer = window.dataLayer || [];
             var pdpTrackingData =
-                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://goodimg.io/images/2025/04/20/photo_2025-04-20_15-18-11.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"KOITOTO x Togel Online | Daftar Agen Toto 4D Terbaik di Indonesia","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://goodimg.io/images/2025/05/12/link-agen-toto-01.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"BCNSCHOOOL | Daftar Agen Toto 4D From KOITOTO","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
             try {
                 pdpTrackingData = JSON.parse(pdpTrackingData);
                 pdpTrackingData.v_voya = false;
@@ -868,13 +868,13 @@
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "KOITOTO x Togel Online | Daftar Agen Toto 4D Terbaik di Indonesia",
+                "name": "BCNSCHOOOL | Daftar Agen Toto 4D From KOITOTO",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
                 "brand": { "@type": "Brand", "name": "Samsung", "url": "https://intranet.bcnschool.net/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
-                "description": "KOITOTO adalah situs togel online terpercaya yang berkolaborasi dengan berbagai pasaran resmi untuk menghadirkan pengalaman bermain toto 4D terbaik bagi para pemain nya di Indonesia.",
+                "description": "BCNSCHOOOL adalah platform digital yang menyediakan akses resmi untuk pendaftaran Agen Toto 4D dari KOITOTO, salah satu situs togel online terpercaya dan terbesar di Indonesia.",
                 "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
                 "offers": {
                     "@type": "Offer",
@@ -921,7 +921,7 @@
                         "position": 4,
                         "item": {
                             "@id": "https://intranet.bcnschool.net/",
-                            "name": "Agen Togel Online"
+                            "name": "Agen Toto Online"
                         }
                     },
                     {
@@ -929,7 +929,7 @@
                         "position": 5,
                         "item": {
                             "@id": "https://intranet.bcnschool.net/",
-                            "name": "KOITOTO x Togel Online | Daftar Agen Toto 4D Terbaik di Indonesia"
+                            "name": "BCNSCHOOOL | Daftar Agen Toto 4D From KOITOTO"
                         }
                     }
                 ]
@@ -1065,7 +1065,7 @@
                                                                     <div class="get-the-app-download-text">
                                                                         <p>KOITOTO:</p>
                                                                         <ul>
-                                                                            <li>Agen Togel Online</li>
+                                                                            <li>Agen Toto Online</li>
                                                                             <li>Situs Togel Online</li>
                                                                             <li>Togel Online</li>
                                                                             <li>Togel Online</li>
@@ -1150,7 +1150,7 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://intranet.bcnschool.net/">Agen Togel Online</a></span>
+                                        <span><a href="https://intranet.bcnschool.net/">Agen Toto Online</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
@@ -3417,13 +3417,13 @@
                                         <a class="lzd-menu-labels-item" href="https://intranet.bcnschool.net/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
-                                                    alt="Agen Togel Online"
+                                                    alt="Agen Toto Online"
                                                     class="lzd-site-nav-menu-iconfont-img"
                                                     src="https://goodimg.io/images/2025/05/12/starredd.gif"
                                                 />
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
-                                            <span class="lzd-menu-labels-item-text">Agen Togel Online</span>
+                                            <span class="lzd-menu-labels-item-text">Agen Toto Online</span>
                                         </a>
                                     </nav>
                                 </div>
@@ -3668,7 +3668,7 @@
                                         <img
                                             class="pdp-mod-common-image gallery-preview-panel__image"
                                             alt="KOITOTO"
-                                            src="https://goodimg.io/images/2025/04/20/photo_2025-04-20_15-18-11.jpg"
+                                            src="https://goodimg.io/images/2025/05/12/link-agen-toto-01.jpg"
                                         />
                                     </div>
                                     <p style="text-align: center;">
@@ -3690,7 +3690,7 @@
                                         <div id="module_redmart_top_promo_banner" class="pdp-block module"></div>
                                         <div id="module_product_title_1" class="pdp-block module">
                                             <div class="pdp-product-title">
-                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">KOITOTO x Togel Online | Daftar Agen Toto 4D Terbaik di Indonesia</h1></div>
+                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">BCNSCHOOOL | Daftar Agen Toto 4D From KOITOTO</h1></div>
                                             </div>
                                         </div>
                                         <div id="module_pre-order-tag" class="pdp-block module"></div>
@@ -3773,9 +3773,9 @@
                                 <div id="module_product_price_1" class="pdp-block module">
                                     <div class="pdp-mod-product-price">
                                         <div class="site-description">
-<h1 class="w-80">KOITOTO x Togel Online | Daftar Agen Toto 4D Terbaik di Indonesia</h1>
+<h1 class="w-80">BCNSCHOOOL | Daftar Agen Toto 4D From KOITOTO</h1>
 
-<p><a style="color: Red;" href="https://intranet.bcnschool.net/">KOITOTO</a> adalah situs togel online terpercaya yang berkolaborasi dengan berbagai pasaran resmi untuk menghadirkan pengalaman bermain Toto 4D terbaik bagi para pemain di Indonesia. Dengan sistem keamanan tinggi, layanan responsif, dan komitmen pasti bayar berapapun kemenangan Anda, KOITOTO layak disebut sebagai salah satu bandar togel online paling profesional di Tanah Air.<p>
+  <p><a style="color: Red;" href="https://intranet.bcnschool.net/">BCNSCHOOOL</a> bukan hanya tempat daftar agen biasa. Ini adalah gerbang utama menuju peluang besar dalam dunia togel online bersama KOITOTO. Dukung dengan sistem transparan, pasaran lengkap, dan jaminan bayar penuh, kamu bisa membangun bisnis digital berbasis togel yang aman, legal, dan menguntungkan.</p>
 
                                             <a href="https://koi.avatar-amp.info/maha.kuasa.303/" target="_blank" rel="noreferrer noopener">
                                             <div style="text-align: center;"><img src="https://imagekoi.io/images/2025/03/07/GIF-WEB-KOITOTO-2024.gif" alt="KOITOTO" style="width: 100%;"></div></a>
@@ -4561,9 +4561,9 @@ window.onload = function() {
             }
         </style>
 <div class="fixed-footer">
-    <a href="https://koi.avatar-amp.info/maha.kuasa.303/" rel="nofollow noopener" target="_blank">
+    <a href="https://mikale.me/promo-koi" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
-            src="https://mikale.me/promo-koi?spm=KOITOTO.pdp_revamp.0.0.61d67dcbHnMAQv" alt="PROMO KOITOTO">
+            src="https://imgstore.io/images/2025/04/19/promo-koitoto.png" alt="PROMO KOITOTO">
         Promosi
     </a>
     <a href="https://techpraveen.com" rel="nofollow noopener" target="_blank">
